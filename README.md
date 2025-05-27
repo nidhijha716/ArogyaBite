@@ -22,9 +22,9 @@
 
 🧭 Product Walkthrough
 >Home page/landing page
-
-![Screenshot 2025-05-28 000806](https://github.com/user-attachments/assets/10383758-3f25-4821-8fe6-be9dd9b5e817)
 ![Screenshot 2025-05-28 000746](https://github.com/user-attachments/assets/9da0c3c3-cc7e-46c4-8dd9-982962b5840f)
+![Screenshot 2025-05-28 000806](https://github.com/user-attachments/assets/10383758-3f25-4821-8fe6-be9dd9b5e817)
+
 
 >Features 
 ![image](https://github.com/user-attachments/assets/6c06ccbe-9179-45b2-9cae-20557dccb643)
