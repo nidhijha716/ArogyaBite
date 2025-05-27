@@ -22,14 +22,15 @@
 
 🧭 Product Walkthrough
 >Home page/landing page
-![image](https://github.com/user-attachments/assets/50455082-8b23-444e-96fa-74f1d659b4ca)
-![image](https://github.com/user-attachments/assets/6c866537-0b85-442f-b4e4-99054913cccc)
 
->Features 
 ![Screenshot 2025-05-28 000806](https://github.com/user-attachments/assets/10383758-3f25-4821-8fe6-be9dd9b5e817)
 ![Screenshot 2025-05-28 000746](https://github.com/user-attachments/assets/9da0c3c3-cc7e-46c4-8dd9-982962b5840f)
+
+>Features 
 ![image](https://github.com/user-attachments/assets/6c06ccbe-9179-45b2-9cae-20557dccb643)
 ![image](https://github.com/user-attachments/assets/4fcde672-8dbd-4212-91ca-651d5cf85d42)
+![image](https://github.com/user-attachments/assets/50455082-8b23-444e-96fa-74f1d659b4ca)
+![image](https://github.com/user-attachments/assets/6c866537-0b85-442f-b4e4-99054913cccc)
 
 
 Prerequisites
